@@ -1,5 +1,5 @@
 # PRODIGY_SD_01
-Task 1 - Prodigy Infotech Software Development Internship
+Task 1 - Converts temperatures between Celsius, Fahrenheit, and Kelvin scales
 
 # Temperature Converter
 
@@ -37,6 +37,12 @@ Temperature conversion is a common task in various scientific and engineering ap
 ## Results
 
 The program effectively converts temperature values between the three units of measurement. It handles user input robustly and provides accurate conversions to two decimal places. The example provided in the usage section demonstrates the clear and concise output format of the program.
+
+#### Output
+Temperature Converter
+Enter the temperature value: 25
+Enter the unit of the temperature (C for Celsius, F for Fahrenheit, K for Kelvin): C
+25.0°C is equal to 77.00°F and 298.15K
 
 ## Conclusion
 
